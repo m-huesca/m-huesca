@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning webdev (html, js &css), web3, marketing, community management.
 - 📫 How to reach me @marianahuescab twitter...
 
-- name: Waka - Readme
-  uses: athul/waka-readme@v0.1.5
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
