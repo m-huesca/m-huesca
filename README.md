@@ -13,4 +13,11 @@ I am passionate about creating web development solutions, especially for project
 <b> What've I been up to this week?</b>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   18 hrs 9 mins   █████████████████████▒░░░   85.95 %
+CSS          2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
