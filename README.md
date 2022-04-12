@@ -4,7 +4,7 @@ Technology has always been part of my life, from days with blogger and tumblr de
 I am passionate about creating web development solutions, especially for projects that seek to empower through innovation to amplify opportunities for women, girls and minorities. </p>
 
 <p> <b> What I'm up to? </b> 
-<li> I’m interested web3 & js integrations, DAO'S, Blockchain, #OpenGov, #OpenData, Human rights, Gender equality and LGBTQ+... </li>
+<li> I’m interested web3 & js integrations, DAO'S, Blockchain, #OpenData, Human rights, Gender equality and LGBTQ+... </li>
 <li>I’m currently learning webdev (html, js &css), web3, marketing, community management. </li>
 <li> Finishing @LaboratoriaLA web developement bootcamp!</li></p>
 
