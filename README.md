@@ -22,16 +22,16 @@ I am passionate about creating web development solutions, especially for project
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2022 - To: 28 April 2022
+From: 22 April 2022 - To: 29 April 2022
 
-Total Time: 9 hrs 50 mins
+Total Time: 11 hrs 48 mins
 
-JavaScript   8 hrs 16 mins   █████████████████████░░░░   83.87 %
-JSON         1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Markdown     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript   10 hrs 33 mins  ██████████████████████▒░░   89.41 %
+JSON         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Markdown     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
