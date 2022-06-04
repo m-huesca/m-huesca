@@ -22,11 +22,7 @@ I am passionate about creating web development solutions, especially for project
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2022 - To: 02 June 2022
-
-Total Time: 1 min
-
-Python   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
